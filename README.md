@@ -1,6 +1,8 @@
 This Repository is used for development of the project tasks and deployment of our results.
 By Robin wolf and Mathias Fuhrer (RKIM)
 
+The project was supervised by Gergely Sóti and Prof. Dr.-Ing. habil. Björn Hein.
+
 First task was to modify a given PPO algotithm for discrete action spaces to handle continuous action spaces.
 Second task was to test and compare the discrete PPO, continuous PPO an Stable Baselines implementations.
 --> Results are written down in the MountainCar Notebook
